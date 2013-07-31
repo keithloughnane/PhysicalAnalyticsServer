@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src/ConnectionsManager.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="665" topLine="15" />
+	</File>
+	<File name="src/ConnectionsManager.h" open="1" top="0" tabpos="7">
+		<Cursor position="253" topLine="0" />
+	</File>
+	<File name="src/DataBase.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/DataBase.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/Main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="697" topLine="0" />
+	</File>
+	<File name="src/Main.h" open="1" top="0" tabpos="14">
+		<Cursor position="91" topLine="0" />
+	</File>
+	<File name="src/NetworkConnection.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="239" topLine="0" />
+	</File>
+	<File name="src/NetworkConnection.h" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/Parser.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="src/Parser.h" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/Request.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/Request.h" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/Spool.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/Spool.h" open="1" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/UI.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/UI.h" open="1" top="0" tabpos="13">
+		<Cursor position="73" topLine="0" />
+	</File>
+	<File name="src/main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1199822161 source:/home/user/consoleServer/consoleServer/UI.cpp
+
+1199821890 source:/home/user/consoleServer/consoleServer/dataBaseHandler.cpp
+
+1199821787 source:/home/user/consoleServer/consoleServer/main.cpp
+	<iostream>
+
+1199822033 source:/home/user/consoleServer/consoleServer/networkConnection.cpp
+
+1199822069 source:/home/user/consoleServer/consoleServer/networkManager.cpp
+
+1199822127 source:/home/user/consoleServer/consoleServer/parser.cpp
+
+1199822009 source:/home/user/consoleServer/consoleServer/request.cpp
+
+1199822090 source:/home/user/consoleServer/consoleServer/requestSpool.cpp
+
+1199822161 source:/home/user/Desktop/consoleServer/consoleServer/UI.cpp
+
+1199821890 source:/home/user/Desktop/consoleServer/consoleServer/dataBaseHandler.cpp
+
+1199821787 source:/home/user/Desktop/consoleServer/consoleServer/main.cpp
+	<iostream>
+
+1199822033 source:/home/user/Desktop/consoleServer/consoleServer/networkConnection.cpp
+
+1199822069 source:/home/user/Desktop/consoleServer/consoleServer/networkManager.cpp
+
+1199822127 source:/home/user/Desktop/consoleServer/consoleServer/parser.cpp
+
+1199822009 source:/home/user/Desktop/consoleServer/consoleServer/request.cpp
+
+1199822090 source:/home/user/Desktop/consoleServer/consoleServer/requestSpool.cpp
+
+1257274653 source:/home/user/Desktop/consoleServer/consoleServer/src/ConnectionsManager.cpp
+	"NetworkConnection.h"
+	"ConnectionsManager.h"
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<pthread.h>
+
+1257274281 /home/user/Desktop/consoleServer/consoleServer/src/ConnectionsManager.h
+	"Main.h"
+
+1256941380 source:/home/user/Desktop/consoleServer/consoleServer/src/DataBase.cpp
+	"DataBase.h"
+
+1256942933 /home/user/Desktop/consoleServer/consoleServer/src/DataBase.h
+
+1257264508 source:/home/user/Desktop/consoleServer/consoleServer/src/NetworkConnection.cpp
+	"NetworkConnection.h"
+	<iostream>
+
+1256942933 /home/user/Desktop/consoleServer/consoleServer/src/NetworkConnection.h
+
+1256949198 source:/home/user/Desktop/consoleServer/consoleServer/src/Parser.cpp
+	"Parser.h"
+	<iostream>
+
+1256942933 /home/user/Desktop/consoleServer/consoleServer/src/Parser.h
+
+1256941363 source:/home/user/Desktop/consoleServer/consoleServer/src/Request.cpp
+	"Request.h"
+
+1256942933 /home/user/Desktop/consoleServer/consoleServer/src/Request.h
+
+1256949198 source:/home/user/Desktop/consoleServer/consoleServer/src/Spool.cpp
+	"Spool.h"
+	<iostream>
+
+1256942933 /home/user/Desktop/consoleServer/consoleServer/src/Spool.h
+
+1256949198 source:/home/user/Desktop/consoleServer/consoleServer/src/UI.cpp
+	"UI.h"
+	<iostream>
+
+1257269686 /home/user/Desktop/consoleServer/consoleServer/src/UI.h
+
+1256945825 source:/home/user/Desktop/consoleServer/consoleServer/src/main.cpp
+	<iostream>
+
+1257274494 source:/home/user/Desktop/consoleServer/consoleServer/src/Main.cpp
+	"Main.h"
+	"ConnectionsManager.h"
+	"Spool.h"
+	"Parser.h"
+	<iostream>
+
+1257272600 /home/user/Desktop/consoleServer/consoleServer/src/Main.h
+
